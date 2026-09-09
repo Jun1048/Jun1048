@@ -22,7 +22,7 @@
 | **Education** | [건국대학교 대학원 부동산학과 (졸업)] |
 | **Bootcamp** | '아이티윌' 데이터 분석 부트캠프 (머신러닝 활용 데이터 분석) |
 | **Contact** | `eett308@gmail.com` |
-| **Links** | [Notion](https://app.notion.com/p/31193b3067c780469111cbfa0d98e9ea) |
+| **Links** | [Notion]([https://app.notion.com/p/31193b3067c780469111cbfa0d98e9ea](https://app.notion.com/p/3d693b3067c781f3af2fce170fc82f71)) |
 ---
 
 ### 🛠 기술 스택
