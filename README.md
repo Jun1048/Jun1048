@@ -20,8 +20,9 @@
 | **Role** | Data Analyst / Data Collector |
 | **Focus** | 데이터 전처리, 데이터 시각화, 데이터 분석 |
 | **Education** | [건국대학교 대학원 부동산학과 (졸업)] |
+| **Bootcamp** | itwill 강남 데이터 분석 부트캠프 (머신러닝 활용 데이터 분석) |
 | **Contact** | `eett308@gmail.com` |
-| **Links** | Notion (준비 중) |
+| **Links** | [Notion](https://app.notion.com/p/31193b3067c780469111cbfa0d98e9ea) |
 ---
 
 ### 🛠 기술 스택
