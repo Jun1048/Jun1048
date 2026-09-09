@@ -21,7 +21,7 @@
 | **Focus** | 데이터 전처리, 데이터 시각화, 데이터 분석 |
 | **Education** | [건국대학교 대학원 부동산학과 (졸업)] |
 | **Contact** | `eett308@gmail.com` |
-| **Links** | [Notion](예정) |
+| **Links** | Notion (준비 중) |
 ---
 
 ### 🛠 기술 스택
