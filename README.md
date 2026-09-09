@@ -49,8 +49,8 @@
 | 프로젝트명 | 한 줄 설명 | 사용 기술 | 링크 |
 | :--- | :--- | :--- | :---: |
 |**Boston Housing 주택가격 예측** | 1970년대 보스턴 506개 지역 데이터로 주택가격 결정요인(저소득층비율·방수)을 규명하고 예측모델 구축 | `Python`, `Pandas`, `Scikit-learn`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Boston%20Housing) 
-| **예정** | 예정 | `Python`, `Pandas`, `Matplotlib` | [🔗]  |
-| **예정** | 예정 | `Python`, `Requests`, `API` | [🔗] |
+| **Diamonds Prices 다이아몬드 가격 예측** | 53,940개 다이아몬드 데이터로 가격 결정요인(캐럿·4C 등급)을 규명하고 예측모델 구축, 캐럿의 압도적 지배구조와 등급의 조건부 프리미엄을 SHAP으로 검증 | `Python`, `Pandas`, `Scikit-learn`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Diamonds%20Prices) |
+| **Apple Quality 사과 품질 예측** | 사과 4,000개체 데이터로 품질(good/bad) 판정요인을 로지스틱 회귀로 규명, 로짓 비선형성(Box-Tidwell)·억제변수 진단까지 수행하고 CatBoost와 이중 트랙으로 비교 | `Python`, `Pandas`, `Scikit-learn`, `Statsmodels`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Apple%20Quality) |
 ---
 
 
