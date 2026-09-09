@@ -46,7 +46,7 @@
 
 | 프로젝트명 | 한 줄 설명 | 사용 기술 | 링크 |
 | :--- | :--- | :--- | :---: |
-| **예정** | 예정 | `Python`, `matplotlib`, `Pandas` | [🔗] |
+|**Boston Housing 주택가격 예측** | 1970년대 보스턴 506개 지역 데이터로 주택가격 결정요인(저소득층비율·방수)을 규명하고 예측모델 구축 | `Python`, `Pandas`, `Scikit-learn`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Boston%20Housing) 
 | **예정** | 예정 | `Python`, `Pandas`, `Matplotlib` | [🔗]  |
 | **예정** | 예정 | `Python`, `Requests`, `API` | [🔗] |
 ---
