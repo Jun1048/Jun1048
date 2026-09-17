@@ -50,7 +50,7 @@
 | :--- | :--- | :--- | :---: |
 |**Boston Housing(보스턴 주택 시장 예측)** | 1970년대 보스턴 506개 지역 데이터로 주택가격 결정요인을 회귀분석으로 규명하고, 후진소거·가정검정까지 거친 해석 중심 모형 구축 | `Python`, `Pandas`, `Statsmodels`, `Scikit-learn` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Boston%20Housing) |
 | **Diamonds Prices(다이아몬드 가격 예측)** | 다이아몬드 53,794건 4C(캐럿·컷·컬러·투명도) 데이터로 가격 결정요인을 회귀분석으로 규명하고, 후진소거·가정검정까지 거친 해석 중심 모형(SHAP 확장 트랙 포함) 구축 | `Python`, `Pandas`, `Statsmodels`, `Scikit-learn`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Diamonds%20Prices) |
-| **Apple Quality(사과 품질 예측)** | 사과 4,000개체 데이터로 품질(good/bad) 판정요인을 로지스틱 회귀로 규명, 로짓 비선형성(Box-Tidwell)·억제변수 진단까지 수행하고 CatBoost와 이중 트랙으로 비교 | `Python`, `Pandas`, `Scikit-learn`, `Statsmodels`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Apple%20Quality) |
+| **Apple Quality(사과 품질 예측)** | 사과 4,000개체 데이터로 품질(good/bad) 판정요인을 로지스틱 회귀로 규명, 로짓 비선형성(Box-Tidwell)·억제변수 진단까지 수행하고 CatBoost와 이중 트랙으로 비교 | `Python`, `Pandas`, `Statsmodels`, `Scikit-learn`, `CatBoost`, `SHAP` | [🔗](https://github.com/Jun1048/Portfolio_ML/tree/main/Apple%20Quality) |
 ---
 
 
