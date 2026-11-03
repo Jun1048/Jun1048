@@ -16,7 +16,7 @@
 | 구분 | 내용 |
 | :--- | :--- |
 | **이름** | 허준명 |
-| **Role** | Data Analyst / Data Collector |
+| **Role** | Data Analyst |
 | **Focus** | 데이터 전처리, 데이터 시각화, 데이터 분석 |
 | **Education** | 건국대학교 대학원 부동산학과 (졸업) |
 | **Bootcamp** | '아이티윌' 데이터 분석 부트캠프 (머신러닝 활용 데이터 분석) |
@@ -25,6 +25,11 @@
 ---
 
 ### 🛠 기술 스택
+#### Statistics & Machine Learning
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-1E90FF?style=flat-square)
 
 #### Data Analysis & Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,7 +37,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Collection & Automation
+#### Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
 
