@@ -16,10 +16,9 @@
 | 구분 | 내용 |
 | :--- | :--- |
 | **이름** | 허준명 |
-| **출생** | 1989.02.15 |
 | **Role** | Data Analyst / Data Collector |
 | **Focus** | 데이터 전처리, 데이터 시각화, 데이터 분석 |
-| **Education** | [건국대학교 대학원 부동산학과 (졸업)] |
+| **Education** | 건국대학교 대학원 부동산학과 (졸업) |
 | **Bootcamp** | '아이티윌' 데이터 분석 부트캠프 (머신러닝 활용 데이터 분석) |
 | **Contact** | `eett308@gmail.com` |
 | **Links** | [Notion](https://app.notion.com/p/Data-Analyst-Portfolio-3d693b3067c781f3af2fce170fc82f71) |
